@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Light
+  - Boundary
+  - Ground
+  - Stage Spot
+  - WeaknessSpot
+  - StageButton
+  - Save Point
+  - Clear Point
+  - Damageable Ground
+  - CheckPoint
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1497362895
+    locked: 0
+  - name: Ground
+    uniqueID: 1516712633
+    locked: 0
+  - name: BossLightBG
+    uniqueID: 805153275
+    locked: 0
+  - name: Enemy
+    uniqueID: 621318973
+    locked: 0
+  - name: WorldMap Line
+    uniqueID: 2363672573
+    locked: 0
+  - name: Stage Spot
+    uniqueID: 1682142029
+    locked: 0
+  - name: Object
+    uniqueID: 2588888439
+    locked: 0
+  - name: Selecter
+    uniqueID: 2683168073
+    locked: 0
+  - name: Player
+    uniqueID: 2024772817
+    locked: 0
+  - name: BG detail
+    uniqueID: 2067667579
+    locked: 0

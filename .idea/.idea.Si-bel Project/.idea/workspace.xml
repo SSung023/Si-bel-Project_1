@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3504640-6492-4b7c-95e2-680e2e6d49f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@8.2.0/Runtime/2D/Light2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/World Map/LevelController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/World Map/SingleStageSpot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.2/Editor/VisualStudioEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/World Map/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Entity/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Entity/Roamer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/InGame/StageManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/World Map/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/InGame/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Utility/CommonVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Utility/Blackboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Ending/PieceFalling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Main menu/MainController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/MovingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/SingleLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/WorldMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/StageSpotController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/LevelSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/SpotSetting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/SingleStageSpot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utility/Blackboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/World Map/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main menu/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/StageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Main menu/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/menuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Utility/CommonVariable.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Entity/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Main menu/MainController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Entity/Roamer.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/InGame/StageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/SingleStageSpot.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Ending/PieceFalling.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Utility/Blackboard.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k37FZcs2QkJjILBfPSOR4r2PTp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3504640-6492-4b7c-95e2-680e2e6d49f0" name="Default Changelist" comment="" />
+      <created>1604917324575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604917324575</updated>
+      <workItem from="1604917340446" duration="3494000" />
+      <workItem from="1604998207891" duration="9781000" />
+      <workItem from="1605068138933" duration="3696000" />
+      <workItem from="1605166551903" duration="6784000" />
+      <workItem from="1605280171142" duration="1383000" />
+      <workItem from="1605286314654" duration="2230000" />
+      <workItem from="1605317428556" duration="1800000" />
+      <workItem from="1605441342719" duration="2690000" />
+      <workItem from="1605453115463" duration="20000" />
+      <workItem from="1605453276849" duration="8168000" />
+      <workItem from="1605491973756" duration="3137000" />
+      <workItem from="1605499069264" duration="23814000" />
+      <workItem from="1605579278487" duration="1839000" />
+      <workItem from="1605633576548" duration="616000" />
+      <workItem from="1605671598276" duration="1874000" />
+      <workItem from="1605800177664" duration="2372000" />
+      <workItem from="1605843258842" duration="5121000" />
+      <workItem from="1605926570238" duration="32771000" />
+      <workItem from="1606007441929" duration="3192000" />
+      <workItem from="1606015623255" duration="19175000" />
+      <workItem from="1606099765088" duration="15264000" />
+      <workItem from="1606186332482" duration="13428000" />
+      <workItem from="1606389439659" duration="7107000" />
+      <workItem from="1606436227599" duration="5991000" />
+      <workItem from="1606449791324" duration="27699000" />
+      <workItem from="1606532370360" duration="24228000" />
+      <workItem from="1606621889036" duration="3386000" />
+      <workItem from="1606644020752" duration="6080000" />
+      <workItem from="1606703835568" duration="22676000" />
+      <workItem from="1606792795810" duration="117000" />
+      <workItem from="1606808691015" duration="5667000" />
+      <workItem from="1606838505323" duration="599000" />
+      <workItem from="1606878676431" duration="4047000" />
+      <workItem from="1606972536501" duration="621000" />
+      <workItem from="1606974124809" duration="819000" />
+      <workItem from="1606975279829" duration="833000" />
+      <workItem from="1606991127875" duration="3062000" />
+      <workItem from="1607053780752" duration="3763000" />
+      <workItem from="1607061539327" duration="10430000" />
+      <workItem from="1607085238729" duration="859000" />
+      <workItem from="1607099675300" duration="699000" />
+      <workItem from="1607485938938" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="260" key="Rider.ProjectTemplateDialog.Size" timestamp="1606496853229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="809" y="260" key="Rider.ProjectTemplateDialog.Size/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606496853229" />
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1" timestamp="1606496905559">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-7" y="0" width="974" height="1057" key="dock-window-1/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606496905559" />
+    <state x="886" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1605521696823">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="886" y="233" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605521696823" />
+  </component>
+</project>
