@@ -37,6 +37,7 @@
             <e p="DamageableObject.cs" t="Include" />
             <e p="SavePoint.cs" t="Include" />
             <e p="StageManager.cs" t="Include" />
+            <e p="Tutorial.cs" t="Include" />
           </e>
           <e p="Main menu" t="Include">
             <e p="MainController.cs" t="Include" />

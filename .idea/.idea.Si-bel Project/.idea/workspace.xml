@@ -22,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Utility/CommonVariable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Utility/Blackboard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Ending/PieceFalling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/InGame/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/3. Scripts/Main menu/MainController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -50,7 +51,6 @@
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Utility/CommonVariable.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/MenuController.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/3. Scripts/Entity/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Main menu/MainController.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Entity/Roamer.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/InGame/StageManager.cs" />
@@ -58,6 +58,8 @@
         <option value="$PROJECT_DIR$/Assets/3. Scripts/World Map/LevelController.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Ending/PieceFalling.cs" />
         <option value="$PROJECT_DIR$/Assets/3. Scripts/Utility/Blackboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/InGame/Tutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/3. Scripts/Entity/Player.cs" />
       </list>
     </option>
   </component>
@@ -143,6 +145,7 @@
       <workItem from="1607085238729" duration="859000" />
       <workItem from="1607099675300" duration="699000" />
       <workItem from="1607485938938" duration="1561000" />
+      <workItem from="1608187388297" duration="3040000" />
     </task>
     <servers />
   </component>

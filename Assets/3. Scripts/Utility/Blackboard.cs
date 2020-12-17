@@ -18,9 +18,9 @@ public static class Blackboard
     //플레이어 월드 내에서의 위치(Index): 0 ~ 6
     public static int WGirlPos = 0;
     public static int WSelecterPos = 0;
+
+    public static bool canMove = true;
     
-    
-    // 전역 변수
     
     // Game Exit
     public static void ExitGame()

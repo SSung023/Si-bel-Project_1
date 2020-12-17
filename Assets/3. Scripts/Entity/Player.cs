@@ -74,6 +74,9 @@ public class Player : Entity
     }
     private void Move()
     {
+        if(!Blackboard.canMove)
+            return;
+        
         if(Input.GetKeyDown(KeyCode.Space) && jumpCount < 2) 
         {
             jumpCount++;

@@ -83,3 +83,6 @@ TagManager:
   - name: BG detail
     uniqueID: 2067667579
     locked: 0
+  - name: Tutorial
+    uniqueID: 1608683249
+    locked: 0
